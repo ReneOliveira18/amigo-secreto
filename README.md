@@ -16,7 +16,8 @@
 
 O nome é validado e inserido na lista.
 ![Amigo2](https://github.com/user-attachments/assets/68e6b572-8e6d-4be4-bb91-a0e03689261f)
-![Amigo3](https://github.com/user-attachments/assets/0e79dca5-870c-4e7f-be48-555bed2f0cf2)
+![Amigo3](https://github.com/user-attachments/assets/d2515eaf-bb83-407d-8a5e-b1c71553d090)
+
 
 A lista de amigos é exibida.
 
